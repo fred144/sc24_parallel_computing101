@@ -1,1 +1,3 @@
-# sc24_parallel_computing101
+# Fall 2024 
+
+sc24 parallel computing 101
